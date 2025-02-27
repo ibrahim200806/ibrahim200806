@@ -16,9 +16,8 @@ I'm an Information Technology student at **PSNA College of Engineering and Techn
 ## 📌 Latest Commits
 ![GitHub Commit Status](https://github-readme-commit-status.vercel.app/api?username=ibrahim200806&theme=dark)
 ## 📫 Connect With Me
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/mohammed-ibrahim-m](https://www.linkedin.com/in/mohammed-ibrahim-m)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- 📧 Email: [ashikibrahim2006@gmail.com](mailto:ashikibrahim2006@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mohammed-ibrahim-m]([https://www.linkedin.com/in/mohammed-ibrahim-m)](https://www.linkedin.com/in/mohammed-ibrahim-2b5310335/)
 
 ---
 ⭐ **Feel free to explore my repositories and contribute!** 🚀
