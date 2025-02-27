@@ -11,11 +11,10 @@ I'm an Information Technology student at **PSNA College of Engineering and Techn
 - 🤖 Interests: AI/ML, Cybersecurity, Blockchain
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohammed-ibrahim-m&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-ibrahim-m&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim200806&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=midnight-purple)
 
 ## 📌 Latest Commits
-![GitHub Commit Status](https://github-readme-stats.vercel.app/api?username=ibrahim200806&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=midnight-purple)
+![GitHub Commit Status](https://github-readme-commit-status.vercel.app/api?username=ibrahim200806&theme=dark)
 ## 📫 Connect With Me
 - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/mohammed-ibrahim-m](https://www.linkedin.com/in/mohammed-ibrahim-m)
