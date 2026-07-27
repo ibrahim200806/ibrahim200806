@@ -4,9 +4,9 @@
 I'm an Information Technology student at **PSNA College of Engineering and Technology** with a passion for coding, problem-solving, and exploring new technologies.
 
 ## 🔧 Technologies & Skills
-- 💻 Programming: Python, Java, C++
+- 💻 Programming: Python, Java
 - 🌐 Web Development: HTML, CSS, JavaScript
-- 📊 Databases: MySQL, MongoDB
+- 📊 Databases: MongoDB, MySQL
 - ☁️ Cloud & DevOps: Git, GitHub, Docker
 - 🤖 Interests: AI/ML, Cybersecurity, Blockchain
 
