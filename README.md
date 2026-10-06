@@ -1,10 +1,7 @@
 # 👋 Hi there! 👋
 
 <p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mohammed-ibrahim-2b5310335">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ibrahim200806">
