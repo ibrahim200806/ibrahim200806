@@ -55,16 +55,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim200806&theme=github-compact&hide_border=true" />
-
-</p>
-
----
-
 ## 😄 Here's some humor for you
 
 ```text
